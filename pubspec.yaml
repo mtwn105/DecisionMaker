@@ -9,10 +9,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   shared_preferences: "^0.4.2"
-  flutter_circular_chart: "^0.0.3"
+  flutter_circular_chart: ^0.1.0
   flutter_walkthrough:
   sqflite: any
-  path_provider: "^0.3.1"
+  path_provider: "^1.1.0"
   flutter_billing: "^0.2.2"
   firebase_auth: "^0.5.11"
   firebase_analytics: "^1.0.1"
@@ -20,7 +20,7 @@ dependencies:
   firebase_database: "^1.0.1"
   cloud_firestore: "^0.7.3"
   package_info: "^0.3.2"
-  font_awesome_flutter: "^7.0.0"
+  font_awesome_flutter: ^8.4.0
   url_launcher: "^3.0.2"
 
 dev_dependencies:
