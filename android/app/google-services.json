@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "58420260549",
+    "firebase_url": "https://adept-parsec-117615.firebaseio.com",
+    "project_id": "adept-parsec-117615"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58420260549:android:74ed11f26a91b259",
+        "android_client_info": {
+          "package_name": "jai.shriram.decisionmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58420260549-03q2183ntkafevpqj03q4s45v79sip0g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "58420260549-03q2183ntkafevpqj03q4s45v79sip0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7LfeuDOmxSnHLK5ru_XlDzy5fKz6rbc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
